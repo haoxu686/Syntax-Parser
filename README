@@ -1,4 +1,0 @@
-A Visual Studio project under window platform.
-This is a program to generate a syntax parser resembling "yacc".
-Take a set of context free grammer productions and parse it using 
-the LR(1) approach.
